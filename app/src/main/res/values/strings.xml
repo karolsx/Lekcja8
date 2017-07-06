@@ -1,0 +1,44 @@
+<resources>
+    <string name="app_name">inftel</string>
+    <string name="tele">Lista telefonów:</string>
+    <string-array name="telephones">
+        <item>Samsung Galaxy S4</item>
+        <item>Galaxy A8</item>
+        <item>Lenovo K3</item>
+    </string-array>
+    <string name="specs">Specyfikacja:</string>
+    <string-array name="specification1">
+        <item>Wymiary:              136,60 x 69,80 x 7,90 mm </item>
+        <item>Waga:                 130,00 g</item>
+        <item>Pamięć wbudowana:     16 GB</item>
+        <item>Pamięć RAM:           2 GB</item>
+    </string-array>
+    <string-array name="specification2">
+        <item>Wymiary:              158,00 x 76,80 x 5,90 mm </item>
+        <item>Waga:                 151,00 g</item>
+        <item>Pamięć wbudowana:     32 GB</item>
+        <item>Pamięć RAM:           2 GB</item>
+
+    </string-array>
+    <string-array name="specification3">
+        <item>Wymiary:              141,00 x 70,50 x 7,90 mm </item>
+        <item>Waga:                 128,00 g</item>
+        <item>Pamięć wbudowana:     8 GB</item>
+        <item>Pamięć RAM:           1 GB</item>
+    </string-array>
+    <string name="pow">Powrót do listy telefonów</string>
+    <string name="dial">Dialogi:</string>
+    <string name="hello">Powitanie</string>
+    <string name="custom">HeHe</string>
+    <string name="player">Odtwarzanie muzyki</string>
+    <string name="exit">Wyjście</string>
+    <string name="play1">Odtwórz 1</string>
+    <string name="stop">Zatrzymaj</string>
+    <string name="stopmusic">Zatrzymaj muzyke</string>
+    <string name="nagraj_audio">Audio recording:</string>
+    <string name="nagraj">Nagraj</string>
+    <string name="odtworz">Odtwórz</string>
+    <string name="zapisz">Zapisz</string>
+    <string name="stop_nagranie">Stop</string>
+    <string name="files">FileWriteReader</string>
+</resources>
